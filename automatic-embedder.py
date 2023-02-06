@@ -16,4 +16,4 @@ async def on_message(message):
       await message.author.send(f"Your message '{deleted_message}' has been deleted and sent as an embed in the channel.")
       print(f"Deleted message from {message.author}: {message.content}")
 
-bot.run('MTA3MjI1OTIyNDkyNDU5NDI2OA.G0o10u.Ga4XSK0FRmS5UGqDTCtCj0P2bFNODkDELXOv0U')
+bot.run('YOUR-BOT-TOKEN')
